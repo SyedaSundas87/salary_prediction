@@ -7,6 +7,15 @@ import os
 
 app = FastAPI()
 
+# Patch for older scikit-learn models
+try:
+    import sklearn.compose._column_transformer
+    class MockRemainderColsList(list):
+        pass
+    sklearn.compose._column_transformer._RemainderColsList = MockRemainderColsList
+except Exception as e:
+    print("Could not apply scikit-learn patch:", e)
+
 # Load the model
 try:
     model = joblib.load('salary.joblib')
