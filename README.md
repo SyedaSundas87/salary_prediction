@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="Banner" width="100%" />
+
   
   <h1>💼 Salary Predictor</h1>
   
