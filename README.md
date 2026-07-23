@@ -24,6 +24,9 @@
 - **FastAPI Backend**: A highly performant API serving predictions seamlessly.
 - **Unified Deployment**: Configured to serve both the frontend and backend as a single Web Service on Render for cost-effective hosting.
 
+<img width="1303" height="633" alt="Screenshot (592)" src="https://github.com/user-attachments/assets/d829196d-2c90-4805-8814-712c844eac40" />
+
+
 ---
 
 ## 🏗️ Architecture
