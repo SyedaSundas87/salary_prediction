@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="Banner" width="100%" />
+
   
   <h1>💼 Salary Predictor</h1>
   
@@ -15,7 +14,6 @@
   </p>
   
   <br />
-  <img src="assets/preview.png" alt="Salary Predictor Preview" width="100%" />
 </div>
 
 ---
@@ -26,6 +24,9 @@
 - **Real-Time Prediction**: Instant salary projections using a trained `scikit-learn` Machine Learning model.
 - **FastAPI Backend**: A highly performant API serving predictions seamlessly.
 - **Unified Deployment**: Configured to serve both the frontend and backend as a single Web Service on Render for cost-effective hosting.
+
+
+  <img src="assets/preview.png" alt="Salary Predictor Preview" width="100%" />
 
 ---
 
