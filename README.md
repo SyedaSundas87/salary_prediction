@@ -1,4 +1,5 @@
-
+<div align="center">
+  <img src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" alt="Banner" width="100%" />
   
   <h1>💼 Salary Predictor</h1>
   
@@ -12,6 +13,9 @@
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
     <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </p>
+  
+  <br />
+  <img src="assets/preview.png" alt="Salary Predictor Preview" width="100%" />
 </div>
 
 ---
@@ -22,9 +26,6 @@
 - **Real-Time Prediction**: Instant salary projections using a trained `scikit-learn` Machine Learning model.
 - **FastAPI Backend**: A highly performant API serving predictions seamlessly.
 - **Unified Deployment**: Configured to serve both the frontend and backend as a single Web Service on Render for cost-effective hosting.
-
-<img width="1303" height="633" alt="Screenshot (592)" src="https://github.com/user-attachments/assets/d829196d-2c90-4805-8814-712c844eac40" />
-
 
 ---
 
